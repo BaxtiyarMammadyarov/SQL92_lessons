@@ -2,7 +2,7 @@
 GO
 
 -- University bazasını yaratmaq
-Drop database if exists  [University];
+--Drop database if exists  [University];
 
 CREATE DATABASE [University]
 GO 
